@@ -1,0 +1,156 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    /* raleway font */
+    margin: 0;
+    padding: 0;
+}
+
+.hello_text {
+    font-size: 30px;
+    font-weight: 500;
+    padding-top: 150px;
+}
+
+.name_text {
+    font-size: 40px;
+    font-weight: 550;
+    color: #EC4B75;
+}
+
+.top_header p {
+    font-size: 18px;
+    line-height: 30px;
+    color: rgb(68, 68, 68);
+    margin-bottom: 50px;
+    text-align: justify;
+}
+
+.top_header a {
+    text-decoration: none;
+    background-color: #EC4B75;
+    color: white;
+    padding: 7px 20px;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 5px;
+}
+
+.top_header a:hover {
+    background-color: #832941;
+}
+
+.container {
+    width: 80%;
+    height: 600px;
+    margin: 0 auto;
+    padding: 5% 10% 0 10%;
+}
+
+.top_header {
+    background-image: url(img/header-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+    padding-bottom: 50px;
+}
+
+.content_area {
+    width: 50%;
+    height: auto;
+    float: left;
+}
+
+.container img {
+    margin-left: 40px;
+    width: 80%;
+    margin-bottom: 60px;
+}
+
+.second_section {
+    background-image: url(img/biography-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.for_bonus {
+    font-size: 19px;
+    color: #EC4B75;
+    font-weight: 600;
+}
+
+.img_container {
+    width: 30%;
+    float: left;
+}
+
+#my_latest_work {
+    background-image: url(img/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+}
+
+.feedback02 {
+    margin: 0 5% 0 5%;
+}
+
+#my_latest_work h1 {
+    font-size: 50px;
+    text-align: center;
+    padding-bottom: 50px;
+    font-weight: 500;
+}
+
+#footer {
+    background-image: url(img/footer-bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+#footer h1 {
+    font-size: 50px;
+    font-weight: 500;
+}
+
+#footer h3 {
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.cus_comments {
+    padding: 0% 35%;
+    line-height: 25px;
+    font-weight: 600;
+    margin-bottom: 2%;
+}
+
+.link_massage {
+    width: 40%;
+    background-color: #EC4B75;
+    display: inline-block;
+    padding: 4% 10%;
+    border-radius: 10px;
+    color: white;
+}
+
+.link_massage a {
+    text-decoration: none;
+    font-size: 36px;
+    color: white;
+}
+
+.link_massage a:hover {
+    color: rgb(95, 94, 99);
+}
+
+.for_smaller {
+    font-size: 13px;
+}
+
+.main_footer {
+    margin-top: 10%;
+}
