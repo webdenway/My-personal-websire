@@ -90,7 +90,8 @@ body {
     background-image: url(img/latest-work-bg.png);
     background-repeat: no-repeat;
     background-position: center;
-    width: 100%;
+    background-size: cover;
+    padding-top: 4%;
 }
 
 .feedback02 {
@@ -109,6 +110,7 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     text-align: center;
+    background-size: cover;
 }
 
 #footer h1 {
